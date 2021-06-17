@@ -29,4 +29,5 @@ Jogador possui dois atributos: Array de Cards e um valor indicando o quão alta 
 
 <b> Escreva aqui seu nome, NUSP e usuário do Github </b>
 
-- Felipe Furquim - 11208030 - FvFurquim
+- Felipe Furquim      - 11208030 - FvFurquim
+- Silas Bovolin Reis  - 11796739 - SilasReisUSP
