@@ -31,3 +31,4 @@ Jogador possui dois atributos: Array de Cards e um valor indicando o quão alta 
 
 - Felipe Furquim      - 11208030 - FvFurquim
 - Silas Bovolin Reis  - 11796739 - SilasReisUSP
+- Felipe Oliveira - 11925242 - felipeoes
